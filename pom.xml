@@ -2,14 +2,14 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.github.mfathi91</groupId>
+    <groupId>com.github.xarax3</groupId>
     <artifactId>persian-date-time</artifactId>
     <version>4.2.1</version>
     <packaging>jar</packaging>
 
     <name>Persian Date Time</name>
     <description>This library is an implementation of Solar Hijri calendar</description>
-    <url>https://github.com/mfathi91/persian-date-time</url>
+    <url>https://github.com/xarax3/persian-date-time</url>
 
     <licenses>
         <license>
@@ -20,16 +20,16 @@
 
     <developers>
         <developer>
-            <name>Mahmoud Fathi</name>
-            <email>m.fathi1991@gmail.com</email>
-            <organization>linkedin.com/in/mfathi91</organization>
-            <organizationUrl>https://github.com/mfathi91</organizationUrl>
+            <name>Mehran Namdar</name>
+            <email>mehran.namdar@gmail.com</email>
+            <organization>linkedin.com/in/xarax3</organization>
+            <organizationUrl>https://github.com/xarax3</organizationUrl>
         </developer>
     </developers>
 
     <scm>
-        <connection>scm:git:git@github.com:mfathi91/persian-date-time.git</connection>
-        <developerConnection>scm:git:git@github.com:mfathi91/persian-date-time.git</developerConnection>
+        <connection>scm:git:git@github.com:xarax3/persian-date-time.git</connection>
+        <developerConnection>scm:git:git@github.com:xarax3/persian-date-time.git</developerConnection>
         <url>https://github.com/oshi/oshi.git</url>
     </scm>
 
