@@ -1,4 +1,4 @@
-package com.github.mfathi91.time;
+package com.github.xarax3.time;
 
 import net.jcip.annotations.Immutable;
 
@@ -18,7 +18,7 @@ import java.util.Objects;
  * <p>
  * This class is immutable and can be used in multi-threaded environments.
  *
- * @author Mahmoud Fathi
+ * @author Mehran Namdar
  */
 @Immutable
 public final class PersianDateTime implements ChronoLocalDateTime<PersianDate> {

@@ -1,4 +1,4 @@
-package com.github.mfathi91.time;
+package com.github.xarax3.time;
 
 import net.jcip.annotations.Immutable;
 
@@ -24,7 +24,7 @@ import static java.time.temporal.ChronoField.YEAR;
  * <p>
  * This is an immutable and thread-safe enum.
  *
- * @author Mahmoud Fathi
+ * @author Mehran Namdar
  */
 @Immutable
 public final class PersianChronology extends AbstractChronology {

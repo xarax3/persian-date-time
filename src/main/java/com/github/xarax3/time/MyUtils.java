@@ -1,4 +1,4 @@
-package com.github.mfathi91.time;
+package com.github.xarax3.time;
 
 import net.jcip.annotations.ThreadSafe;
 
@@ -8,7 +8,7 @@ import net.jcip.annotations.ThreadSafe;
  * <p>
  * This class is stateless and thread-safe.
  *
- * @author Mahmoud Fathi
+ * @author Mehran Namdar
  */
 @ThreadSafe
 public class MyUtils {

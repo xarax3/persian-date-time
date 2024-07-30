@@ -1,4 +1,4 @@
-package com.github.mfathi91.time;
+package com.github.xarax3.time;
 
 import net.jcip.annotations.Immutable;
 
@@ -19,7 +19,7 @@ import net.jcip.annotations.Immutable;
  * <p>
  * This is an immutable enum and can be used in concurrent programs.
  *
- * @author Mahmoud Fathi
+ * @author Mehran Namdar
  */
 @Immutable
 public enum PersianMonth {

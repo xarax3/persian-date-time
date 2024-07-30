@@ -1,4 +1,4 @@
-package com.github.mfathi91.time;
+package com.github.xarax3.time;
 
 import net.jcip.annotations.Immutable;
 
@@ -23,7 +23,7 @@ import static java.time.temporal.ChronoField.ERA;
  * <p>
  * This is an immutable and thread-safe enum.
  *
- * @author Mahmoud Fathi
+ * @author Mehran Namdar
  */
 @Immutable
 public enum PersianEra implements Era {

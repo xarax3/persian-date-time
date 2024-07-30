@@ -1,6 +1,8 @@
-package com.github.mfathi91.time;
+package com.github.xarax3.time;
 
 import org.junit.Test;
+
+import com.github.xarax3.time.MyUtils;
 
 import static org.junit.Assert.*;
 

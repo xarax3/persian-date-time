@@ -1,4 +1,4 @@
-package com.github.mfathi91.time;
+package com.github.xarax3.time;
 
 import net.jcip.annotations.Immutable;
 
@@ -27,7 +27,7 @@ import static java.time.temporal.ChronoField.*;
  * <p>
  * This class is immutable and can be used in multi-threaded programs.
  *
- * @author Mahmoud Fathi
+ * @author Mehran Namdar
  */
 @Immutable
 public final class PersianDate implements ChronoLocalDate {
